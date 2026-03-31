@@ -2,7 +2,7 @@ import React from "react";
 
 const MobileCard = ({ productData }) => {
   return (
-    <div className="w-full flex items-center justify-around gap-10 bg-[#393939] mx-5 rounded-xl">
+    <div className="w-full flex items-center justify-around gap-10 bg-[#393939] mt-5  rounded-xl">
       <div className="flex items-center justify-around text-white">
         <img
           className="p-15 h-80"
